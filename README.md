@@ -59,9 +59,6 @@ Este portafolio web interactivo ha sido construido con **React.js**, mostrando m
 ### 🤝 Conéctate conmigo
 
 <p align="center">
-  <a href="https://github.com/e1409e">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-  </a>
   <a href="mailto:ericchaparro1409@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
